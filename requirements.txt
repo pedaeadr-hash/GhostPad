@@ -1,0 +1,5 @@
+flet[all]>=1.0.4
+aiohttp>=3.9
+vgamepad>=0.1.0
+cryptography>=42
+segno>=1.6
